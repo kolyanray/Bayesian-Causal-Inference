@@ -1,5 +1,5 @@
 # Bayesian-Causal-Inference
-Code for "Debiased Bayesian inference for average treatment effects" to appear at NeurIPS 2019.
+Poster and code for "Debiased Bayesian inference for average treatment effects" to appear at NeurIPS 2019.
 
 Code (Python) for running the modified Gaussian process described in the paper is in "Gaussian process with propensity score correction.py".
 
